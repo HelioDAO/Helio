@@ -43,6 +43,27 @@ Helio is a next-generation AI agent built on the Solana blockchain, combining sp
 
 ---
 
+## **Getting Started**
+
+### **1. Clone the Repository**
+```
+bash
+git clone https://github.com/HelioDAO/Helio.git Helio
+cd Helio
+```
+
+### 2. Install Dependencies
+Install the required packages for Helio’s Terminal and SDK:
+```
+pip install -r requirements.txt
+```
+
+### 3. Run the Terminal
+Launch the Helio Terminal to start interacting with the Solana blockchain:
+```
+python main.py
+```
+
 ## **Documentation**
 
 For a complete guide to Helio’s features, architecture, and API, visit our [GitBook Documentation](https://helio-dao.gitbook.io/helio-dao-docs).
