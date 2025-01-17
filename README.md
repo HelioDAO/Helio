@@ -1,5 +1,7 @@
 # **Helio AI Agent**
 
+![Helio](https://github.com/HelioDAO/Helio/blob/main/banner.jpeg)
+
 Helio is a next-generation AI agent built on the high-performance Solana blockchain. Designed to empower developers, businesses, and users in the Web3 ecosystem, Helio combines the speed, scalability, and security of Solana with advanced artificial intelligence capabilities. Whether you're automating workflows, analyzing blockchain data, or building smarter decentralized applications, Helio is here to illuminate the future of decentralization.
 
 ---
