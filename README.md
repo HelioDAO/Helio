@@ -35,7 +35,7 @@ Helio is a next-generation AI agent built on the high-performance Solana blockch
 ---
 
 ### Whitepaper
-For a complete guide to Helio’s features, architecture, and API, visit our GitBook Documentation (https://helio-dao.gitbook.io/helio-dao-docs)
+For a complete guide to Helio’s features, architecture, and API, visit our [GitBook Documentation](https://helio-dao.gitbook.io/helio-dao-docs)
 
 # **Helio AI Agent**
 
